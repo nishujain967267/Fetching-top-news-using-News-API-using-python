@@ -1,0 +1,5 @@
+# Fetching-top-news-using-News-API-using-python
+News API is a simple HTTP REST API for searching and retrieving live news articles from all over the web. Using this, one can fetch the top stories running on any news website or can search top news on specific topic (or keyword).  News can be retrieved based on some criteria. Say the topic (keyword) to be searched is ‘Geeksforgeeks’ or might be concerned to specific channel. All can be done, but API Key is needed to get started.  Steps :  1. Visit https://newsapi.org/ to get your own API key.  2. Install requests package.
+News API is a simple HTTP REST API for searching and retrieving live news articles from all over the web. Using this, one can fetch the top stories running on any news website or can search top news on specific topic (or keyword).
+
+News can be retrieved based on some criteria. Say the topic (keyword) to be searched is ‘Geeksforgeeks’ or might be concerned to specific channel. All can be done, but API Key is needed to get started.
